@@ -13,6 +13,10 @@
 - [Nginx 基础使用](./Nginx%20基础使用.pdf)
 - [Nginx课件](./Nginx课件.pdf)
 
+### 高级进阶
+- [Nginx高级](./Nginx高级.pdf)
+- [Nginx高级课程扩容与高效](./Nginx高级课程扩容与高效.md)
+
 
 ## 其他
 - [相关软件](https://txyz.lanzv.com/b03rc9mih) 密码:4yq1
